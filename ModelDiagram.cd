@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="CarRent.Program">
+    <Position X="2.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRent.Customer">
+    <Position X="7" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAEDAFAgAAAICAAAAAAAAAEBAAAAACAAAAAAgAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRent.Rental">
+    <Position X="2.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAEAACQAADAQAAAAAAAAAAAgBAAAACgAAAiEAEQAIAA=</HashCode>
+      <FileName>Rental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRent.Session">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAABAAAAQAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Session.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRent.User">
+    <Position X="7" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAIAAEQAAAAgAAAAAAAACAAAGCAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRent.Vehicle">
+    <Position X="4.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgCAAAABAAAAARAAAABAAAAAYAAAAAAEQiAAAICgAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRent.VehicleImage">
+    <Position X="4.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAIAABQAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>VehicleImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
